@@ -42,3 +42,8 @@ footer {
 footer img {
   width: 30px;
 }
+
+iframe {
+  width: 300px;
+  height: 200px;
+}
